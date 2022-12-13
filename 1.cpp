@@ -14,7 +14,7 @@ int main()
 
 		do
 		{
-			cout << "Enter Your Choise:";
+			cout << endl << "Enter Your Choise:";
 			cin >> opinion;
 			if (opinion > 5)
 			{
@@ -40,20 +40,20 @@ int main()
 		case 2:
 		{
 			b.PreOrder();
-			cout << endl;
+			cout << endl << endl;
 			break;
 		}
 
 		case 3:
 		{
 			b.InOrder();
-			cout << endl;
+			cout << endl << endl;
 			break;
 		}
 		case 4:
 		{
 			b.PostOrder();
-			cout << endl;
+			cout << endl << endl;
 			break;
 		}
 		default:

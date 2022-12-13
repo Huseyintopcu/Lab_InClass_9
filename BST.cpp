@@ -68,16 +68,13 @@ void BST::PostOrderTraversal(BinarySearchTree* root)
 
 void BST:: PreOrder()
 {
-	cout << "Preorder Traversal option 1: ";
 	PreOrderTraversal(root);
 }
 void BST:: InOrder()
 {
-	cout << "Ineorder Traversal option 1: ";
 	InOrderTraversal(root);
 }
 void BST:: PostOrder()
 {
-	cout << "Postorder Traversal option 1: ";
 	PostOrderTraversal(root);
 }

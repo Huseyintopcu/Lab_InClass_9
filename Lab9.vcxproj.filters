@@ -18,10 +18,10 @@
     <ClCompile Include="BST.cpp">
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
-    <ClCompile Include="2.cpp">
+    <ClCompile Include="BSTmod.cpp">
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
-    <ClCompile Include="BSTmod.cpp">
+    <ClCompile Include="3.cpp">
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
   </ItemGroup>
